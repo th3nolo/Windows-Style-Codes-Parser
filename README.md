@@ -9,8 +9,9 @@ This repository provides a Python function to parse and display the descriptions
 
 
 ## Inspiration
-Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python
-https://youtu.be/cwBoUuy4nGc?t=1855
+1. Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python
+    
+    https://youtu.be/cwBoUuy4nGc?t=1855
 
 Example:
 
