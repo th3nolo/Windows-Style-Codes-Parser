@@ -7,6 +7,11 @@ This repository provides a Python function to parse and display the descriptions
 2. Import the `get_descriptions` function and the `windows_style_codes` list into your script.
 3. Call the `get_descriptions` function with a hexadecimal value and the `windows_style_codes` list as arguments.
 
+
+## Inspiration
+Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python
+https://youtu.be/cwBoUuy4nGc?t=1855
+
 Example:
 
 ```python
